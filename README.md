@@ -18,4 +18,4 @@
 
 [twitter]: https://x.com/sabeinworrell?s=21
 [instagram]: https://www.instagram.com/sabeinworrell?igsh=MTVmNDVrYzMwNzdzMw%3D%3D&utm_source=qr
-[linkedin]: www.linkedin.com/in/sabein-worrell-91b377143
+[linkedin]: https://www.linkedin.com/in/sabein-worrell-91b377143
