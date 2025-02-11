@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sabein, an <a href="www.linkedin.com/in/sabein-worrell-91b377143">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sabein, an <a href="https://www.linkedin.com/in/sabein-worrell-91b377143">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
